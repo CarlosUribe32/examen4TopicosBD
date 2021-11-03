@@ -1,0 +1,62 @@
+[
+  {
+    "Nombre": "Calcivirus",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Leucemia",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Panleucopenia",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Peritonitis Infecciosa",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Rabia",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Rinotraqueitis",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Trivalente felina",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Coronavirus",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Hepatitis",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Leptospirosis",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Moquillo",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Parainfluenza",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Parvovirus",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Pentavalente Perruna",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Rabia",
+    "Especie": "Perro"
+  }
+]

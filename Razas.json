@@ -1,0 +1,242 @@
+[
+  {
+    "Nombre": "Abisinio",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Angora Turco",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Bengalí",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Bosque de Noruega",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "British Shorthair",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Chartreux",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Cornish Rex",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Devon Rex",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "German Rex",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Korat",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Maine Coon",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Mau Egipcio",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Ocicat",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Persa",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Ragdoll",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Sagrado de Birmania",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Scottish Fold",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Siamés Moderno",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Siberiano",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Sphynx",
+    "Especie": "Gato"
+  },
+  {
+    "Nombre": "Akita Inu",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Alano Español",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Alaskan Malamute",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "American Pit Bull Terrier",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Beagle",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Bóxer",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Bull Terrier",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Bulldog Americano",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Bulldog Inglés",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Bullmastiff",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Carlino (Pug)",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Chow Chow",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Dálmata",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Doberman",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Dogo Argentino",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Dogo de Burdeos",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Dogo del Tíbet",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Galgo Español",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Golden Retriever",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Gran Danés",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Husky Siberiano",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Keeshond",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Komondor",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Labrador Retriever",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Mastín del Pirineo",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Mastín Español",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Mastin Napolitano",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Pastor Alemán",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Perro de Agua Español",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Pointer Inglés",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Puli",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Ratonero Bodeguero Andaluz",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Rottweiler",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Samoyedo",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "San Bernardo",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Setter Inglés",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Setter Irlandés Rojo",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Staffordshire Bull Terrier",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Terranova",
+    "Especie": "Perro"
+  },
+  {
+    "Nombre": "Terrier Galés",
+    "Especie": "Perro"
+  }
+]
